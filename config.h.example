@@ -1,0 +1,8 @@
+#define WIFISSID "example-wifi"
+#define WIFIPASSWORD "password"
+
+#define MQTTSERVER "mqtt.example.org"
+#define MQTTPORT 1883
+#define MQTTCLIENTID "client"
+#define MQTTUSERNAME "user"
+#define MQTTPASSWORD "password"
